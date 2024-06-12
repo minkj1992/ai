@@ -1,8 +1,0 @@
-name: linear-env
-channels:
-  - defaults
-dependencies:
-  - python=3.12
-  - black
-  - mypy
-prefix: /opt/miniconda3/envs/linear-env
